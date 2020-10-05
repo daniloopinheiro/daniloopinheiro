@@ -3,12 +3,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
 [![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Mail&logoColor=white)](mailto:daniloopro@gmail.com)
 
+### Meu [Portfólio](https://dop-s.github.io/)
+
+### Outros Repositósiros :
+  
+  * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
+  * [GitHub - Option 2](https://github.com/DanilloPro)
+
 <hr>
 
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPro&show_icons=true&theme=radical)](https://github.com/DaniloOPro)
-<!--
-[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&layout=compact&theme=radical)](https://github.com/DaniloOPro)
 
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&layout=compact&theme=radical&langs_count=20)](https://github.com/DaniloOPro)
+<!--
 
 **DaniloOPro/DaniloOPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -21,8 +21,6 @@
 
 <hr>
 
-[![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPro&show_icons=true&theme=radical)](https://github.com/)
-
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPro&show_icons=true&theme=radical)](https://github.com/DaniloOPro)
 [![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&layout=compact&theme=radical)](https://github.com/DaniloOPro)
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&theme=blue-green)](https://github.com/DaniloOPro/github-readme-stats)

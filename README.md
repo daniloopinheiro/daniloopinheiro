@@ -21,7 +21,17 @@
 
 <hr>
 
+[![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPro&show_icons=true&theme=radical)](https://github.com/)
+
 [![Danilo O. Pinheiro stats](https://github-readme-stats.vercel.app/api?username=DaniloOPro&show_icons=true&theme=radical)](https://github.com/DaniloOPro)
+[![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&layout=compact&theme=radical)](https://github.com/DaniloOPro)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&theme=blue-green)](https://github.com/DaniloOPro/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=DaniloOPro&theme=blue-green)](https://github.com/DaniloOPro)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=DaniloOPro&row=1)](https://github.com/DaniloOPro/github-profile-trophy)
+
+[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/DaniloOPro/badges)
+
 <!--
 [![Danilo O. Pinheiro Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOPro&layout=compact&theme=radical&langs_count=20)](https://github.com/DaniloOPro)
 

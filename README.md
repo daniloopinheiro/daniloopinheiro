@@ -15,4 +15,4 @@
 ### Outros Repositórios :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
-  * [GitHub - Option 2](https://github.com/dopskilldev)
+  * [GitHub - Canal YouTube](https://github.com/dopskilldev)

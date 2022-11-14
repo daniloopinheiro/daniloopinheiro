@@ -12,7 +12,7 @@
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/daniloopro)
 
-### Outros Repositósiros :
+### Outros Repositórios :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Option 2](https://github.com/dopskilldev)

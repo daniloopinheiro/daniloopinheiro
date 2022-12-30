@@ -9,9 +9,10 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
 * 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
 
-<a href="https://www.twitter.com/dopskilldev" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/dopskilldev?logo=twitter&style=for-the-badge&color=000000&labelColor=831843"/>
-</a><a href="https://www.twitch.tv/dopskilldev" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/daniloopinheiro" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/daniloopinheiro?logo=github&style=for-the-badge&color=000000&labelColor=831843" /></a><a href="https://www.twitter.com/dopskilldev" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/dopskilldev?logo=twitter&style=for-the-badge&color=000000&labelColor=831843"/></a>
+<a href="https://www.twitch.tv/dopskilldev" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/dopskilldev?logo=twitchsx&style=for-the-badge&color=000000&labelColor=831843&label=TWITCH+STATUS" /></a>
 
 ### Habilidades 
@@ -64,6 +65,12 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com/profile/09027812347261688269)
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/daniloopro)
+
+### Distintivos
+
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Outros Repositórios :
   

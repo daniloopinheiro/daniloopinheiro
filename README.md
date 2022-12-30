@@ -9,6 +9,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
 * 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
 
+<a href="https://www.twitter.com/dopskilldev" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/dopskilldev?logo=twitter&style=for-the-badge&color=000000&labelColor=831843"/>
+</a><a href="https://www.twitch.tv/dopskilldev" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitch/status/dopskilldev?logo=twitchsx&style=for-the-badge&color=000000&labelColor=831843&label=TWITCH+STATUS" /></a>
+
 ### Habilidades 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>

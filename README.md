@@ -5,7 +5,7 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/80ef5c10b8d34b669fff781b6ca27429.png"
+      src="https://github.com/daniloopinheiro/Daniloopinheiro/blob/main/devcard.svg"
     />
   </a>
 

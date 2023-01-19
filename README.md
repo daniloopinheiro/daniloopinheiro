@@ -1,6 +1,8 @@
 Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Danilo O. Pinheiro
 ==========================================================================================================================================
 
+<a href="https://app.daily.dev/daniloopinheiro"><img src="https://api.daily.dev/devcards/80ef5c10b8d34b669fff781b6ca27429.png?r=svf" width="400" alt="Danilo O. Pinheiro's Dev Card"/></a>
+
 Software Architect, Engineer & Cons. Sr. Back End Developer
 -----------------------------------------------------------
 

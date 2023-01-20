@@ -16,6 +16,52 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
 * 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
 
+### Certificações
+<a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/6bd34861-da0d-49b8-b1ac-4d111d5de456/LRA-CQRS-ES-badge.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/21f1ee2e-1ead-45c4-b2a8-1d08760440f6/Advanced_Kubernetes_Operators.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/f40022a5-10a4-4d3e-af39-074e013144f6/image.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/472b8f46-6bd7-404f-a16e-8538ed276ea6/image.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/7e0d2e0d-e68a-4a87-9245-dc288c97f33b/image.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/ebfba101-5b78-49b6-903a-ac9ad518fe8a/MTA-Introduction_to_Programming_Using_Python-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/f611a90e-b8e2-4fdf-9bd6-9e8d5f4c30e8/dynamics365-fundamentals-erp-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/601d9906-7c88-4c5d-a5e5-5d32f97fb80d/39284104c55c4a2e8c1a6ff090181106-01.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/078bf4ac-46e3-4d3e-8b3a-6fce99d6d31f/dfb072584c2242afb25e74e5eec8b371-01.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/22778972-ff6d-4d02-9ce3-f1230ac025a0/120e27f93a9f4735b2a9e912cc6f8455-01.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
+</a>
+
 ### Habilidades 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>

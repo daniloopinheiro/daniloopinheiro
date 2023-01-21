@@ -117,11 +117,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 [![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/danilopinheiro2)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/daniloopro)
 
-### Distintivos
+<!-- ### Distintivos
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 ### Outros Repositórios :
   

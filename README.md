@@ -95,6 +95,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352237-a0ec148f-6d7d-4e64-842d-88c9dfebd031.svg" width="36" height="36" alt="Grafana" /></a>
+<a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352321-25d203c5-7f04-4ebd-8a5f-5ed1dcbd04d5.svg" width="36" height="36" alt="Kibana" /></a>
 </p>
                     
 

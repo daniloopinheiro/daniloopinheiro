@@ -27,7 +27,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="50" height="50" alt="" />
 </a>
-<a><img src="https://images.credly.com/size/110x110/images/f40022a5-10a4-4d3e-af39-074e013144f6/image.png" width="50" height="50" alt="" />
+<a><img src="https://images.credly.com/size/340x340/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
 </a>

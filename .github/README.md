@@ -61,6 +61,14 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://avatars.githubusercontent.com/u/54584156?s=200&v=4" width="50" height="50" alt="" />
+</a>
+<a><img src="https://avatars.githubusercontent.com/u/20651926?s=200&v=4" width="50" height="50" alt="" />
+</a>
+<a><img src="https://seeklogo.com/images/P/pluralsight-logo-BA976E7D4C-seeklogo.com.png" width="50" height="50" alt="" />
+</a>
 
 ### Habilidades 
 <p align="left">

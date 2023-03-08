@@ -69,6 +69,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://seeklogo.com/images/P/pluralsight-logo-BA976E7D4C-seeklogo.com.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="50" height="50" alt="" />
+</a>
 
 ### Habilidades 
 <p align="left">

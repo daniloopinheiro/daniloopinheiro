@@ -71,6 +71,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="50" height="50" alt="" />
 </a>
+<a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
+</a>
 
 ### Habilidades 
 

@@ -80,7 +80,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 ### Habilidades 
 
-#### Clouds
+- Clouds
 
 <p align="left">
 
@@ -93,7 +93,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-#### Languages
+- Languages
 
 <p align="left">
 
@@ -119,8 +119,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-
-#### Databases
+- Databases
 
 <p align="left">
 
@@ -132,7 +131,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-#### Mobiles
+- Mobiles
 
 <p align="left">
 
@@ -141,7 +140,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-#### Monitoring / Observability / Tools
+- Monitoring / Observability / Tools
 
 <p align="left">
 

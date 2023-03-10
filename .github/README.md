@@ -61,6 +61,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
+</a>
 <a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://avatars.githubusercontent.com/u/54584156?s=200&v=4" width="50" height="50" alt="" />
@@ -71,7 +73,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="50" height="50" alt="" />
 </a>
-<a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
+<a><img src="https://pbs.twimg.com/profile_images/1597421774676828165/m-BUQtop_400x400.jpg" width="50" height="50" alt="" />
+</a>
+<a><img src="https://plataforma.fullcycle.com.br/static/media/fullCycleLogo.08a0cd18.svg" width="50" height="50" alt="" />
 </a>
 
 ### Habilidades 
@@ -84,6 +88,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
+<a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
 
 </p>
 

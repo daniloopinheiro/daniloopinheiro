@@ -135,7 +135,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-#### Monitoring/observability/Tools
+#### Monitoring / Observability / Tools
 
 <p align="left">
 

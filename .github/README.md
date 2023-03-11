@@ -90,7 +90,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
 <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
-
+<a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/alibaba-cloud-icon-512x428-yofcvzd8.png" width="30" height="35" alt="Cloud Alibaba" /></a>
+    
 </p>
 
 - Languages
@@ -137,6 +138,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" width="36" height="36" alt="Kotlin" /></a>
 
 </p>
 
@@ -146,8 +149,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352237-a0ec148f-6d7d-4e64-842d-88c9dfebd031.svg" width="36" height="36" alt="Grafana" /></a>
 <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352321-25d203c5-7f04-4ebd-8a5f-5ed1dcbd04d5.svg" width="36" height="36" alt="Kibana" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://3.bp.blogspot.com/-7WC6Fu82mHM/XJa2Y9o_9DI/AAAAAAAAJaQ/pY_D-Vb4eKkRTDo3LjNbIYafZXeQMEHpwCK4BGAYYCw/s1600/logo%2Belastic%2Bstack%2Bicon.png" width="36" height="36" alt="Sketch" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+    
+    
 
 </p>               
 

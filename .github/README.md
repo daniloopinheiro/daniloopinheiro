@@ -139,7 +139,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" width="36" height="33" alt="Kotlin" /></a>
 
 </p>
 

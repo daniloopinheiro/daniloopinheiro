@@ -153,7 +153,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/49998002?s=280&v=4" width="36" height="36" alt="OpenTelemetry" /></a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="36" height="36" alt="Prometheus" /></a>
 <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"><img src="http://cdn.shopify.com/s/files/1/1300/8977/products/file-_23_5f71772c-ecb0-4001-a37b-bec1057885d0.png?v=1649724633" width="40" height="40" alt="Jaegertracing" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/blog/loki.png" width="36" height="36" alt="loki grafana" /></a>
+<a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/blog/loki.png" width="36" height="36" alt="loki grafana" /></a>
     
 <!-- <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a> -->
 </p>               

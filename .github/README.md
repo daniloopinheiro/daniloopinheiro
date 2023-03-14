@@ -86,7 +86,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <p align="left">
 
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
-<a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="
+https://user-images.githubusercontent.com/64677271/225034857-ed762ddd-3282-47fb-b82a-754a423b8d93.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>

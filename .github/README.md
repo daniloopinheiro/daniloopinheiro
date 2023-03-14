@@ -157,8 +157,12 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/blog/loki.png" width="36" height="36" alt="loki grafana" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40" alt="Ansible" /></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225028277-3b3bb636-5265-4e66-8dfa-85a48d6a6e93.svg" width="40" height="40" alt="TerraForm" /></a>
 <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225029051-445520c1-b75b-411d-9226-892ff23834f2.svg" width="40" height="40" alt="Azure Devops" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031143-c4e60e35-713d-40ac-85d3-a35728585aa1.png" width="40" height="40" alt="Docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031634-ac36b859-0f04-4ca3-acf2-715b67ef0b9d.png" width="40" height="40" alt="Kubernetes" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225032208-0b1eac81-95b2-4127-9a4a-32d5202403f0.png" width="40" height="40" alt="Helm" /></a> 
 
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> -->
+<!-- 
+<a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
+-->
 </p>               
 
 # Redes Sociais

@@ -154,11 +154,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="36" height="36" alt="Prometheus" /></a>
 <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"><img src="http://cdn.shopify.com/s/files/1/1300/8977/products/file-_23_5f71772c-ecb0-4001-a37b-bec1057885d0.png?v=1649724633" width="40" height="40" alt="Jaegertracing" /></a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/blog/loki.png" width="36" height="36" alt="loki grafana" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40" alt="Ansible" /></a> 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225026982-feade59a-f982-412c-a0dd-d79cc91f00c9.svg" width="40" height="45" alt="TerraForm" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40" alt="Ansible" /></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225028277-3b3bb636-5265-4e66-8dfa-85a48d6a6e93.svg" width="40" height="40" alt="TerraForm" /></a>
     
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a> -->
 </p>               
+
 
 
 ### Redes Sociais

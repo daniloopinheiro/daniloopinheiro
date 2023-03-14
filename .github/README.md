@@ -16,7 +16,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
 * 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
 
-### Certificações
+# Certificações
+
 <a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/6bd34861-da0d-49b8-b1ac-4d111d5de456/LRA-CQRS-ES-badge.png" width="50" height="50" alt="" />
@@ -78,7 +79,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://plataforma.fullcycle.com.br/static/media/fullCycleLogo.08a0cd18.svg" width="50" height="50" alt="" />
 </a>
 
-### Habilidades 
+# Habilidades 
 
 - Clouds
 
@@ -155,13 +156,12 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://www.jaegertracing.io/" target="_blank" rel="noreferrer"><img src="http://cdn.shopify.com/s/files/1/1300/8977/products/file-_23_5f71772c-ecb0-4001-a37b-bec1057885d0.png?v=1649724633" width="40" height="40" alt="Jaegertracing" /></a>
 <a href="https://grafana.com/oss/loki/" target="_blank" rel="noreferrer"><img src="https://grafana.com/static/assets/img/blog/loki.png" width="36" height="36" alt="loki grafana" /></a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373429/ansible.svg" width="40" height="40" alt="Ansible" /></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225028277-3b3bb636-5265-4e66-8dfa-85a48d6a6e93.svg" width="40" height="40" alt="TerraForm" /></a>
-    
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a> -->
+<a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225029051-445520c1-b75b-411d-9226-892ff23834f2.svg" width="40" height="40" alt="Azure Devops" /></a>
+
+<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> -->
 </p>               
 
-
-
-### Redes Sociais
+# Redes Sociais
 
 <p align="left"> 
 <a href="https://www.facebook.com/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/daniloopinheiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />

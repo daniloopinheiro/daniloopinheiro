@@ -80,7 +80,39 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/227734931-d9bc8dec-6171-492a-a779-2d9450902744.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4D0BAQH1yYpvcNDwIQ/company-logo_100_100/0/1569855186957?e=1687996800&v=beta&t=HjbbboOrA_xxib2xqz7xT6VmKfNk3uw9lucYeVRH-5M" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4E0BAQEDBHkmnL_zeA/company-logo_100_100/0/1519872734785?e=1687996800&v=beta&t=gZWz7uco4vQLdFM6fkKMWzI3Qszl14Wg31Y9MoX7ZcY" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=1687996800&v=beta&t=7C74zUqDwtcdbNPBpQl7I_hosByMId-G8nHIpEiqzVE" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4D0BAQHLWGq5Xb46cQ/company-logo_100_100/0/1519909694468?e=1687996800&v=beta&t=MJByibLZV_39UXiSz4LS1J1hjewIj9Wv0LTM227VgwU" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4D0BAQHn6MZxZWKOQw/company-logo_100_100/0/1570052821201?e=1687996800&v=beta&t=vmGliyGo_uVsBwqnGEBDj4lSyzgQt197zgg7mrsSzys" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C560BAQG-V4d52WYJjA/company-logo_100_100/0/1654720559861?e=1687996800&v=beta&t=2KSEHZ9ZWyazePWxvvKZS84QjtNVX0958hxA4sXN-O0" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/D560BAQFHJGMDwuuT0Q/company-logo_100_100/0/1665609988540?e=1687996800&v=beta&t=tRlgtmExd2UbZirUkAToGuXCzfXkMxTm9E6iBuIQ-0Y" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C560BAQFxrZyVGOSXBg/company-logo_100_100/0/1663568656074?e=1687996800&v=beta&t=Fu3zHUroK83z2U4PuUtmd5nco1n9pgawrl2kiVOI_k4" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1687996800&v=beta&t=WpTieLJtBFJSgEEAdvfWLJamg1o1Dw3fyIv1RR6BTX0" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4D0BAQELMlfokXb_Iw/company-logo_100_100/0/1555333354026?e=1687996800&v=beta&t=zre4EnoauKcncjTUmNiLi3FgSywg7mzfsx31RCFy3Ak" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C4E0BAQHXp0euMkKB_A/company-logo_100_100/0/1616759023137?e=1687996800&v=beta&t=asw8l_cPLADXR150IC5TX750ObKhNzPYTIRpjYCXL6g" width="50" height="50" alt="" />
+</a>
+<a><img src="https://media.licdn.com/dms/image/C560BAQFz6hJdRxRaUg/company-logo_100_100/0/1656850575447?e=1687996800&v=beta&t=D2i30TbzaSXbmzCzs-SC0C7q1NixKILtCMsX-XOxNao" width="50" height="50" alt="" />
+</a>
 
+
+
+<!--
+<a><img src="" width="50" height="50" alt="" />
+</a>
+-->
 
 
 # Habilidades 

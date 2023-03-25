@@ -78,6 +78,10 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://plataforma.fullcycle.com.br/static/media/fullCycleLogo.08a0cd18.svg" width="50" height="50" alt="" />
 </a>
+<a><img src="https://user-images.githubusercontent.com/64677271/227734931-d9bc8dec-6171-492a-a779-2d9450902744.png" width="50" height="50" alt="" />
+</a>
+
+
 
 # Habilidades 
 

@@ -197,7 +197,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031143-c4e60e35-713d-40ac-85d3-a35728585aa1.png" width="40" height="40" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031634-ac36b859-0f04-4ca3-acf2-715b67ef0b9d.png" width="40" height="40" alt="Kubernetes" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225032208-0b1eac81-95b2-4127-9a4a-32d5202403f0.png" width="40" height="40" alt="Helm" /></a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
-  
+<a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
+    
+
 <!-- 
 <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
 -->

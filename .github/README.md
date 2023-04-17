@@ -14,7 +14,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * 🌍 Moro em São Paulo - Brasil
 * 🖥️ Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
-* 🚀 Atualmente estou trabalhando no [Act Digital](http://actdigital.com/pt/)
+* 🚀 Atualmente estou trabalhando na [Act Digital](http://actdigital.com/pt/)
 
 # Certificações
 

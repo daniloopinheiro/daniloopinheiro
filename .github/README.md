@@ -240,9 +240,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/daniloopinheiro"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=daniloopinheiro&bg_color=831843&color=facc15&line=000000&point=facc15&area_color=831843&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> 
+
 
 ### Outros Repositórios :
   
   * [GitHub - Educacional](https://github.com/DaniloOP1381521)<br>
   * [GitHub - Canal YouTube](https://github.com/dopskilldev)
+-->

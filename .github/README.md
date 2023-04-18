@@ -16,7 +16,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
 * 🚀 Atualmente estou trabalhando na [Act Digital](http://actdigital.com/pt/)
 
-# Certificações
+## Certificações
 
 <a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
 </a>
@@ -117,7 +117,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 -->
 
 
-# Habilidades 
+## Habilidades 
 
 - Clouds
 
@@ -206,7 +206,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 -->
 </p>               
 
-# Redes Sociais
+## Redes Sociais
 
 <p align="left"> 
 <a href="https://www.facebook.com/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/daniloopinheiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />

@@ -33,7 +33,6 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="50" height="50" alt="" />
-</a>
 <a><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png" width="50" height="50" alt="" />
@@ -55,6 +54,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" height="50" alt="" />
 <a><img src="https://user-images.githubusercontent.com/64677271/232635806-e8458204-c9bf-48d0-8a3e-9a3947a6dbb4.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://user-images.githubusercontent.com/64677271/232855403-5454ed45-271d-4982-905c-b624e663a3f7.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/601d9906-7c88-4c5d-a5e5-5d32f97fb80d/39284104c55c4a2e8c1a6ff090181106-01.png" width="50" height="50" alt="" />
 </a>
@@ -63,7 +63,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/22778972-ff6d-4d02-9ce3-f1230ac025a0/120e27f93a9f4735b2a9e912cc6f8455-01.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
-</a>
+</a>    
 <a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
 </a>
 <a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />

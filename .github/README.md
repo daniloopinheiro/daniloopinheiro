@@ -53,6 +53,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/42992295-0ee2-4527-982d-e51efbec40fc/dynamics365-fundamentals-crm-600x600.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="50" height="50" alt="" />
+<a><img src="https://user-images.githubusercontent.com/64677271/232635806-e8458204-c9bf-48d0-8a3e-9a3947a6dbb4.png" width="50" height="50" alt="" />
+</a>
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/601d9906-7c88-4c5d-a5e5-5d32f97fb80d/39284104c55c4a2e8c1a6ff090181106-01.png" width="50" height="50" alt="" />
 </a>
@@ -108,7 +110,6 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
 </a>
-
 
 <!--
 <a><img src="" width="50" height="50" alt="" />

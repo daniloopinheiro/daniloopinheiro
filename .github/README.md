@@ -56,6 +56,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/232855403-5454ed45-271d-4982-905c-b624e663a3f7.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://user-images.githubusercontent.com/64677271/233519665-0dc9446d-94c4-4e06-8b8f-f318a314710b.png" width="50" height="50" alt="" />
+</a>
 <a><img src="https://images.credly.com/size/110x110/images/601d9906-7c88-4c5d-a5e5-5d32f97fb80d/39284104c55c4a2e8c1a6ff090181106-01.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/078bf4ac-46e3-4d3e-8b3a-6fce99d6d31f/dfb072584c2242afb25e74e5eec8b371-01.png" width="50" height="50" alt="" />
@@ -63,7 +65,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/22778972-ff6d-4d02-9ce3-f1230ac025a0/120e27f93a9f4735b2a9e912cc6f8455-01.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/56dc09c1-cffd-4726-9d91-a629dfb9e0f7/a8efe67be32442aa97727bbfce6048fd-01.png" width="50" height="50" alt="" />
-</a>    
+</a> 
 <a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
 </a>
 <a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />

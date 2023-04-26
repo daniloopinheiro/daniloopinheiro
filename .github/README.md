@@ -112,6 +112,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://user-images.githubusercontent.com/64677271/234721582-6799655c-aa8e-4416-b831-560ff48c1f4b.png" width="50" height="50" alt="" />
+</a>
 
 <!--
 <a><img src="" width="50" height="50" alt="" />

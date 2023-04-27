@@ -33,7 +33,10 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="50" height="50" alt="" />
+</a>
 <a><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://user-images.githubusercontent.com/64677271/234728648-4a4ac1cf-d44e-4e91-ad1a-e349dc586d1f.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/f3de2561-27e7-4b48-a2c1-223f821318f2/image.png" width="50" height="50" alt="" />
 </a>

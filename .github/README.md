@@ -206,8 +206,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225031634-ac36b859-0f04-4ca3-acf2-715b67ef0b9d.png" width="40" height="40" alt="Kubernetes" /></a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225032208-0b1eac81-95b2-4127-9a4a-32d5202403f0.png" width="40" height="40" alt="Helm" /></a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
+<a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
     
-
 <!-- 
 <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
 -->

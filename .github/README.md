@@ -117,12 +117,13 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/234721582-6799655c-aa8e-4416-b831-560ff48c1f4b.png" width="50" height="50" alt="" />
 </a>
-
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ca7bd152-25a8-4881-98f1-308c28906ff2" width="50" height="50" alt="https://ibsec.com.br/" />
+</a>
+ 
 <!--
 <a><img src="" width="50" height="50" alt="" />
 </a>
 -->
-
 
 ## Habilidades 
 

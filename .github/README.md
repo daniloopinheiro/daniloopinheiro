@@ -119,7 +119,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ca7bd152-25a8-4881-98f1-308c28906ff2" width="50" height="50" alt="https://ibsec.com.br/" />
 </a>
- 
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/751ceb2b-39b3-4940-a106-f7b3deff0ef8" width="50" height="50" alt="AWS WWCS Solution Architect" />
+</a>
+
 <!--
 <a><img src="" width="50" height="50" alt="" />
 </a>

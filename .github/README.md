@@ -121,7 +121,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/751ceb2b-39b3-4940-a106-f7b3deff0ef8" width="50" height="50" alt="AWS WWCS Solution Architect" />
 </a>
-
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf" width="50" height="50" alt="" />
+</a>
+    
 <!--
 <a><img src="" width="50" height="50" alt="" />
 </a>

@@ -200,7 +200,6 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 - DevOps / Tools
 
 <p align="left">
-
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352237-a0ec148f-6d7d-4e64-842d-88c9dfebd031.svg" width="36" height="36" alt="Grafana" /></a>
 <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352321-25d203c5-7f04-4ebd-8a5f-5ed1dcbd04d5.svg" width="36" height="36" alt="Kibana" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://3.bp.blogspot.com/-7WC6Fu82mHM/XJa2Y9o_9DI/AAAAAAAAJaQ/pY_D-Vb4eKkRTDo3LjNbIYafZXeQMEHpwCK4BGAYYCw/s1600/logo%2Belastic%2Bstack%2Bicon.png" width="36" height="36" alt="Sketch" /></a>
@@ -217,7 +216,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
-    
+<a><img src="https://github.com/DevsFreeUp/mvs-rastreamento-web-front/assets/64677271/2009fc55-2bcc-46e4-ad2b-94d1a2e1431d" width="30" height="50" alt="https://app.snyk.io/" />
 <!-- 
 <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
 -->

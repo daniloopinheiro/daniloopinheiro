@@ -123,12 +123,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf" width="50" height="50" alt="AWS WWCS Solution Architect" />
 </a>
-
-    
-
-
-    
-    
+  
 <!--
 <a><img src="" width="50" height="50" alt="" />
 </a>
@@ -216,7 +211,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
-<a><img src="https://github.com/DevsFreeUp/mvs-rastreamento-web-front/assets/64677271/2009fc55-2bcc-46e4-ad2b-94d1a2e1431d" width="30" height="50" alt="https://app.snyk.io/" />
+<a><img src="https://github.com/DevsFreeUp/mvs-rastreamento-web-front/assets/64677271/2009fc55-2bcc-46e4-ad2b-94d1a2e1431d" width="30" height="40" alt="https://app.snyk.io/" />
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f52e1305-b2ee-4c0f-865f-722e6e372f66" width="40" height="40" alt="" />
+   
 <!-- 
 <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
 -->

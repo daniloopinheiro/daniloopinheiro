@@ -18,6 +18,8 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 ## Certificações
 
+<p align="left">
+    
 <a><img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/6bd34861-da0d-49b8-b1ac-4d111d5de456/LRA-CQRS-ES-badge.png" width="50" height="50" alt="" />
@@ -89,14 +91,20 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png" width="50" height="50" alt="cod3r" />
 </a>
-<a><img src="https://media.licdn.com/dms/image/C4D0BAQH1yYpvcNDwIQ/company-logo_100_100/0/1569855186957?e=1687996800&v=beta&t=HjbbboOrA_xxib2xqz7xT6VmKfNk3uw9lucYeVRH-5M" width="50" height="50" alt="" />
-</a>
-<a><img src="https://media.licdn.com/dms/image/C4E0BAQEDBHkmnL_zeA/company-logo_100_100/0/1519872734785?e=1687996800&v=beta&t=gZWz7uco4vQLdFM6fkKMWzI3Qszl14Wg31Y9MoX7ZcY" width="50" height="50" alt="" />
-</a>
-<a><img src="https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=1687996800&v=beta&t=7C74zUqDwtcdbNPBpQl7I_hosByMId-G8nHIpEiqzVE" width="50" height="50" alt="" />
-</a>
 <a><img src="https://user-images.githubusercontent.com/64677271/234721582-6799655c-aa8e-4416-b831-560ff48c1f4b.png" width="50" height="50" alt="" />
 </a>
+<a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
+</a>
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ca7bd152-25a8-4881-98f1-308c28906ff2" width="50" height="50" alt="https://ibsec.com.br/" />
+</a>
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/83b990af-dff9-4568-91f7-b43dd94b137d" width="50" height="50" alt="AWS WWCS Solution Architect" />
+</a>
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf" width="50" height="50" alt="AWS WWCS Solution Architect" />
+</a>
+
+</p>
+
+<!--
 <a><img src="https://media.licdn.com/dms/image/C4D0BAQHLWGq5Xb46cQ/company-logo_100_100/0/1519909694468?e=1687996800&v=beta&t=MJByibLZV_39UXiSz4LS1J1hjewIj9Wv0LTM227VgwU" width="50" height="50" alt="" />
 </a>
 <a><img src="https://media.licdn.com/dms/image/C4D0BAQHn6MZxZWKOQw/company-logo_100_100/0/1570052821201?e=1687996800&v=beta&t=vmGliyGo_uVsBwqnGEBDj4lSyzgQt197zgg7mrsSzys" width="50" height="50" alt="" />
@@ -115,16 +123,13 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://media.licdn.com/dms/image/C560BAQFz6hJdRxRaUg/company-logo_100_100/0/1656850575447?e=1687996800&v=beta&t=D2i30TbzaSXbmzCzs-SC0C7q1NixKILtCMsX-XOxNao" width="50" height="50" alt="" />
 </a>
-<a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
+<a><img src="https://media.licdn.com/dms/image/C4D0BAQH1yYpvcNDwIQ/company-logo_100_100/0/1569855186957?e=1687996800&v=beta&t=HjbbboOrA_xxib2xqz7xT6VmKfNk3uw9lucYeVRH-5M" width="50" height="50" alt="" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ca7bd152-25a8-4881-98f1-308c28906ff2" width="50" height="50" alt="https://ibsec.com.br/" />
+<a><img src="https://media.licdn.com/dms/image/C4E0BAQEDBHkmnL_zeA/company-logo_100_100/0/1519872734785?e=1687996800&v=beta&t=gZWz7uco4vQLdFM6fkKMWzI3Qszl14Wg31Y9MoX7ZcY" width="50" height="50" alt="" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/83b990af-dff9-4568-91f7-b43dd94b137d" width="50" height="50" alt="AWS WWCS Solution Architect" />
+<a><img src="https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=1687996800&v=beta&t=7C74zUqDwtcdbNPBpQl7I_hosByMId-G8nHIpEiqzVE" width="50" height="50" alt="" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf" width="50" height="50" alt="AWS WWCS Solution Architect" />
-</a>
-  
-<!--
+
 <a><img src="" width="50" height="50" alt="" />
 </a>
 -->

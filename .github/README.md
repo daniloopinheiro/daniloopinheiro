@@ -1,13 +1,14 @@
-Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Danilo O. Pinheiro
-==========================================================================================================================================
 
 <a href="https://app.daily.dev/daniloopinheiro" target="_blank">
     <img
-      width="256"
+      width="250"
       align="right"
       src="https://github.com/daniloopinheiro/Daniloopinheiro/blob/main/devcard.svg"
     />
   </a>
+
+Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Danilo O. Pinheiro
+==========================================================================================================================================
 
 Software Architect, Engineer & Cons. Sr. Back End Developer
 -----------------------------------------------------------

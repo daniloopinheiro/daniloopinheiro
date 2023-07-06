@@ -135,9 +135,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 -->
 
-## Habilidades 
+## Habilidades Técnicas
 
-- Clouds
+#### Clouds
 
 <p align="left">
 
@@ -151,7 +151,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
     
 </p>
 
-- Languages
+#### Languages
 
 <p align="left">
 
@@ -177,7 +177,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-- Databases
+#### Databases
 
 <p align="left">
 
@@ -189,18 +189,20 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 
 </p>
 
-- Mobiles
+#### Mobiles
 
 <p align="left">
 
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" width="36" height="36" alt="Kotlin" /></a>
+
 </p>
 
-- DevOps / Tools
+#### DevOps / Tools
 
 <p align="left">
+    
 <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352237-a0ec148f-6d7d-4e64-842d-88c9dfebd031.svg" width="36" height="36" alt="Grafana" /></a>
 <a href="https://www.elastic.co/kibana/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/215352321-25d203c5-7f04-4ebd-8a5f-5ed1dcbd04d5.svg" width="36" height="36" alt="Kibana" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://3.bp.blogspot.com/-7WC6Fu82mHM/XJa2Y9o_9DI/AAAAAAAAJaQ/pY_D-Vb4eKkRTDo3LjNbIYafZXeQMEHpwCK4BGAYYCw/s1600/logo%2Belastic%2Bstack%2Bicon.png" width="36" height="36" alt="Sketch" /></a>
@@ -219,15 +221,16 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
 <a><img src="https://github.com/DevsFreeUp/mvs-rastreamento-web-front/assets/64677271/2009fc55-2bcc-46e4-ad2b-94d1a2e1431d" width="30" height="40" alt="https://app.snyk.io/" />
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f52e1305-b2ee-4c0f-865f-722e6e372f66" width="40" height="40" alt="" />
-   
+
+</p>
 <!-- 
 <a href="" target="_blank" rel="noreferrer"><img src="" width="40" height="40" alt="" /></a> 
--->
-</p>               
+-->               
 
 ## Redes Sociais
 
 <p align="left"> 
+    
 <a href="https://www.facebook.com/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/daniloopinheiro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
 </a> 
 <a href="http://www.instagram.com/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danilo-o-pinheiro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
@@ -236,6 +239,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a> 
 <a href="https://www.youtube.com/c/dopskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/dopnetskilldev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
 </a>
+
 </p>
 
 <!-- 

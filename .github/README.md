@@ -85,9 +85,9 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://plataforma.fullcycle.com.br/static/media/fullCycleLogo.08a0cd18.svg" width="50" height="50" alt="" />
 </a>
-<a><img src="https://user-images.githubusercontent.com/64677271/227734931-d9bc8dec-6171-492a-a779-2d9450902744.png" width="50" height="50" alt="" />
+<a><img src="https://user-images.githubusercontent.com/64677271/227734931-d9bc8dec-6171-492a-a779-2d9450902744.png" width="50" height="50" alt="gago" />
 </a>
-<a><img src="https://s3.amazonaws.com/thinkific-import/220759/AaQOupKTMCZDEzzmIaSR_SO-LOGO-300.png" width="50" height="50" alt="" />
+<a><img src="" width="50" height="50" alt="cod3r" />
 </a>
 <a><img src="https://media.licdn.com/dms/image/C4D0BAQH1yYpvcNDwIQ/company-logo_100_100/0/1569855186957?e=1687996800&v=beta&t=HjbbboOrA_xxib2xqz7xT6VmKfNk3uw9lucYeVRH-5M" width="50" height="50" alt="" />
 </a>

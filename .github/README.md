@@ -219,7 +219,7 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40" height="40" alt="kafka" /></a> 
 <a href="https://istio.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40" height="40" alt="Istio" /></a> 
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/234838357-bc7b09b7-074b-4684-ac3c-1c241d8b2645.png" width="40" height="40" alt="DataDog" /></a> 
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/0379949a-23d1-4aca-a305-9ba74d9220f5" width="40" height="40" alt="https://app.snyk.io/" />
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/0379949a-23d1-4aca-a305-9ba74d9220f5" width="50" height="57" alt="https://app.snyk.io/" />
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f52e1305-b2ee-4c0f-865f-722e6e372f66" width="40" height="40" alt="" />
 
 </p>

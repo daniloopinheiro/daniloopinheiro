@@ -96,11 +96,11 @@ Software Architect, Engineer & Cons. Sr. Back End Developer
 </a>
 <a><img src="https://user-images.githubusercontent.com/64677271/229296400-f2bd3766-1862-48ef-b6c7-26afeed242d2.png" width="50" height="50" alt="" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f8c625ea-3ab3-4eb9-b088-1adb8f5be707" width="50" height="50" alt="https://ibsec.com.br/" />
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/f8c625ea-3ab3-4eb9-b088-1adb8f5be707.png" width="50" height="50" alt="https://ibsec.com.br/" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/83b990af-dff9-4568-91f7-b43dd94b137d" width="50" height="50" alt="AWS WWCS Solution Architect" />
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/83b990af-dff9-4568-91f7-b43dd94b137d.png" width="50" height="50" alt="AWS WWCS Solution Architect" />
 </a>
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf" width="50" height="50" alt="AWS WWCS Solution Architect" />
+<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf.png" width="50" height="50" alt="AWS WWCS Solution Architect" />
 </a>
 
 </p>

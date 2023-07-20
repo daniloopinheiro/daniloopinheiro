@@ -10,7 +10,7 @@
 Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Danilo O. Pinheiro
 ==========================================================================================================================================
 
-Software Architect, Engineer & Cons. Sr. Back End Developer
+Software Architect, Engineer & Cons. Sr. Developer .NET
 -----------------------------------------------------------
 * 🌍 Moro em São Paulo - Brasil
 * 🖥️ Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)

@@ -74,8 +74,6 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </a> 
 <a><img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" width="50" height="50" alt="" />
 </a>
-<a><img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width="50" height="50" alt="" />
-</a>
 <a><img src="https://avatars.githubusercontent.com/u/54584156?s=200&v=4" width="50" height="50" alt="" />
 </a>
 <a><img src="https://avatars.githubusercontent.com/u/20651926?s=200&v=4" width="50" height="50" alt="" />

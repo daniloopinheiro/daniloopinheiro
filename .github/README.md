@@ -135,19 +135,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 <a><img src="" width="50" height="50" alt="" />
 </a>
 -->
+
 ## Habilidades Técnicas
-<details>
-<summary>Clouds</summary>
-    <p align="left">
-    <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
-    <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225034857-ed762ddd-3282-47fb-b82a-754a423b8d93.png" width="36" height="36" alt="AWS" /></a>
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-    <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
-    <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
-    <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/alibaba-cloud-icon-512x428-yofcvzd8.png" width="30" height="35" alt="Cloud Alibaba" /></a>
-    </p>
-</details>
 
 <details>
     <summary>Languages</summary>
@@ -171,6 +160,19 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
+    </p>
+</details>
+
+<details>
+<summary>Clouds</summary>
+    <p align="left">
+    <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
+    <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225034857-ed762ddd-3282-47fb-b82a-754a423b8d93.png" width="36" height="36" alt="AWS" /></a>
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://nexso.gallerycdn.vsassets.io/extensions/nexso/azure-devops-google-cloud-tools/1.0.101/1632704855784/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="GCP" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/b0/b1/8b/b0b18bd010c5851b5f82d0a98bfde369.png" width="36" height="36" alt="IBM" /></a>
+    <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/224351610-7df6d88c-3cd8-456e-bba7-8860d5da430b.png" width="50" height="36" alt="OCI" /></a>
+    <a href="https://www.oracle.com/br/cloud/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/alibaba-cloud-icon-512x428-yofcvzd8.png" width="30" height="35" alt="Cloud Alibaba" /></a>
     </p>
 </details>
 

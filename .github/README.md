@@ -222,6 +222,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 --> 
 </details>
 
+## Comunicações
+
 <details>
     <summary>Redes Sociais</summary>
     <p align="left">     

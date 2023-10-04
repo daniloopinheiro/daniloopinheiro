@@ -1,6 +1,6 @@
-# GitFlow.md
+# GitFlow
 
-\[Instalação do git-flow]\([https://skoch.github.io/Git-Workflow/](https://skoch.github.io/Git-Workflow/))
+[`Instalação do git-flow`](https://skoch.github.io/Git-Workflow/)
 
 Os subcomandos disponíveis são:
 

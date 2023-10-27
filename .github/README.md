@@ -37,7 +37,7 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/78fc0757-e9d9-4e92-936e-2490815b4965/image.png" width="50" height="50" alt="" />
 </a>
-<a><img src="https://images.credly.com/size/110x110/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" width="50" height="50" alt="" />
+<a><img src="https://images.credly.com/size/110x110/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" width="50" height="50" alt="" />
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="50" height="50" alt="" />
 </a>
@@ -101,6 +101,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/83b990af-dff9-4568-91f7-b43dd94b137d.png" width="50" height="50" alt="AWS WWCS Solution Architect" />
 </a>
 <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e1a4080d-5b53-4373-9b39-e0fc33f02bdf.png" width="50" height="50" alt="AWS WWCS Solution Architect" />
+</a>
+<a><img src="https://images.credly.com/size/110x110/images/da21f449-682a-459a-9028-7947f6148446/image.png" width="50" height="50" alt="The Linux Foundation" />
 </a>
 </p>
 

@@ -104,6 +104,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </a>
 <a><img src="https://images.credly.com/size/110x110/images/da21f449-682a-459a-9028-7947f6148446/image.png" width="50" height="50" alt="The Linux Foundation" />
 </a>
+<a><img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="50" height="50" alt="AWS Knowledge: Architecting" />
+</a>
 </p>
 
 </details>

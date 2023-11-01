@@ -106,6 +106,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </a>
 <a><img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="50" height="50" alt="AWS Knowledge: Architecting" />
 </a>
+<a><img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="50" height="50" alt="AWS Knowledge: Cloud Essentials" />
+</a>
 </p>
 
 </details>

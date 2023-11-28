@@ -19,6 +19,8 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 
 ---
 
+## Conquistas
+
 <details>
     <summary>Certificações</summary>
     <p align="left">

@@ -147,6 +147,7 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 ## Habilidades Pessoais/Interpessoais
 
 <details>
+    <summary>Detalhes</summary>
     
 - Princípios éticos;
 - Confiança;

@@ -144,6 +144,23 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </a>
 -->
 
+## Habilidades Pessoais/Interpessoais
+
+<details>
+    
+- Princípios éticos;
+- Confiança;
+- Atitude positiva;
+- Motivação;
+- Trabalho em equipe;
+- Organização e gestão do tempo;
+- Capacidade de trabalhar sob pressão;
+- Comunicação;
+- Flexibilidade;
+- Segurança.
+
+</details>
+
 ## Habilidades Técnicas
 
 <details>

@@ -190,7 +190,7 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 </details>
 
 <details>
-<summary>Clouds</summary>
+<summary>Providers</summary>
     <p align="left">
     <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" width="36" height="36" alt="Azure" /></a>
     <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/64677271/225034857-ed762ddd-3282-47fb-b82a-754a423b8d93.png" width="36" height="36" alt="AWS" /></a>

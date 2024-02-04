@@ -1,4 +1,3 @@
-
 <a href="https://app.daily.dev/daniloopinheiro" target="_blank">
     <img
       width="250"
@@ -18,8 +17,6 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 * 🚀 Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30"/>  como Consultor .NET
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/da41ebbd-5310-4e07-aa32-d427f3873ce6" width="20"/> Sou CEO da comunidade - [DevsFree](https://devsfree.com.br/)
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/c3a65ee8-f9aa-4fa1-bc1f-a09482f22524" width="30"/> Recentemente contratado como Developer Instructor da - [Rocketseat](https://www.rocketseat.com.br/)
-
-
 
 ---
 

@@ -6,17 +6,17 @@
     />
   </a>
 
-<a><img src="https://github.com/ticketizze/ticketizze-api-auth/assets/64677271/109ea1c0-9a9f-4c05-a259-e4e3dc9d61cd" width="50" height="50" alt="Sumaré" /> - Danilo O. Pinheiro
+<a><img src="https://github.com/ticketizze/ticketizze-api-auth/assets/64677271/109ea1c0-9a9f-4c05-a259-e4e3dc9d61cd" align="center" width="50" height="50" alt="Sumaré" /> - Danilo O. Pinheiro
 ==========================================================================================================================================
 
 Software Architect, Engineer & Cons. Sr. Developer .NET
 -----------------------------------------------------------
-* 🌍 Moro em São Paulo - Brasil
-* 🖥️ Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
-* ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
-* 🚀 Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30"/>  como Consultor .NET
-* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/da41ebbd-5310-4e07-aa32-d427f3873ce6" width="20"/> Sou CEO da comunidade - [DevsFree](https://devsfree.com.br/)
-* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/c3a65ee8-f9aa-4fa1-bc1f-a09482f22524" width="30"/> Recentemente contratado como Developer Instructor da - [Rocketseat](https://www.rocketseat.com.br/)
+* 🌍 - Moro em São Paulo - Brasil
+* 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
+* ✉️ - Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
+* 🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30" height="10"/>  como Consultor .NET
+* <img src="https://github.com/ticketizze/ticketizze-api-auth/assets/64677271/57bb69f5-7939-45e7-aeb4-7e7caa9eb7c5" align="center" width="25" height="30"/> - Sou CEO da comunidade - [DevsFree](https://devsfree.com.br/)
+* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="30" height="30"/> - Recentemente contratado como Developer Instructor da - [Rocketseat](https://www.rocketseat.com.br/)
 
 ---
 

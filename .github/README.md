@@ -7,7 +7,7 @@
     />
   </a>
 
-Danilo O. Pinheiro
+<a><img src="https://github.com/ticketizze/ticketizze-api-auth/assets/64677271/15132259-30c0-423e-b340-90c7ad34fda2" width="50" height="50" alt="Sumaré" /> - Danilo O. Pinheiro
 ==========================================================================================================================================
 
 Software Architect, Engineer & Cons. Sr. Developer .NET

@@ -15,11 +15,25 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 * 🌍 Moro em São Paulo - Brasil
 * 🖥️ Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 * ✉️ Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
-* 🚀 Atualmente estou trabalhando na [Act Digital](http://actdigital.com/pt/)
+* 🚀 Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30"/>  como Consultor .NET
+* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/da41ebbd-5310-4e07-aa32-d427f3873ce6" width="20"/> Sou CEO da comunidade - [DevsFree](https://devsfree.com.br/)
+* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/c3a65ee8-f9aa-4fa1-bc1f-a09482f22524" width="30"/> Recentemente contratado como Developer Instructor da - [Rocketseat](https://www.rocketseat.com.br/)
+
+
 
 ---
 
 ## Conquistas
+
+<details>
+    <summary>Formações</summary>
+    <p align="left">
+        <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/b5f6e4f4-ae4a-4080-b78b-279ef73e19e9" width="50" height="50" alt="Sumaré" />
+        <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/4cf37a28-5d0b-4ea2-9920-b44798d79294" width="50" height="50" alt="Estácio" />
+        <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/61411587-ece6-4cc6-ab32-96fc5286be3d" width="50" height="50" alt="XPEducacao" />
+        <a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ad0e0ff5-a2f5-4c1d-9303-acff94321231" width="50" height="50" alt="FullCycle" />        
+</a>
+</details>
 
 <details>
     <summary>Certificações</summary>

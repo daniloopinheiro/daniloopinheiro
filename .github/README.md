@@ -14,9 +14,9 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 * 🌍 - Moro em São Paulo - Brasil
 * 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 * ✉️ - Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)
-* 🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30" height="10"/>  como Consultor .NET
+* 🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="30" height="10"/>  como *consultor* .NET
 * <img src="https://github.com/ticketizze/ticketizze-api-auth/assets/64677271/57bb69f5-7939-45e7-aeb4-7e7caa9eb7c5" align="center" width="20" height="25"/> - CEO da comunidade - [DevsFree](https://devsfree.com.br/)
-* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - Recentemente contratado como Developer Instructor na - [Rocketseat](https://www.rocketseat.com.br/)
+* <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - Recentemente contratado como *Developer Instructor* na - [Rocketseat](https://www.rocketseat.com.br/)
 
 ---
 

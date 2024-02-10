@@ -6,10 +6,12 @@
     />
 </a>
 
-<a><img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e5487992-7d94-44a5-958b-e2aca4855ea3" align="center" width="50" height="50" alt="Sumaré" /> - Danilo O. Pinheiro
-==========================================================================================================================================
+<img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e5487992-7d94-44a5-958b-e2aca4855ea3" align="center" width="50" height="50"/> 
 
-Software Architect, Engineer & Cons. Sr. Developer .NET
+# Danilo O. Pinheiro 
+
+
+*Software Architect, Engineer & Cons. Sr. Developer .NET*
 -----------------------------------------------------------
 * 🌍 - Moro em São Paulo - Brasil
 * 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
@@ -17,7 +19,10 @@ Software Architect, Engineer & Cons. Sr. Developer .NET
 * 🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="20"/>  como **consultor .NET**
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/> - *CEO* da comunidade - [DevsFree](https://devsfree.com.br/)
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - Recentemente contratado como *Developer Instructor* na - [Rocketseat](https://www.rocketseat.com.br/)
----
+<!--
+==========================================================================================================================================
+-->
+
 ## Conquistas
 
 <details>

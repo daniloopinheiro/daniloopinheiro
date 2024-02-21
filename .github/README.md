@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/daniloopinheiro"><img src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png?r=exj&type=wide" width="652" alt="Danilo O. Pinheiro's Dev Card"/></a>
+
+<!--
 <a href="https://app.daily.dev/daniloopinheiro" target="_blank">
     <img
       width="250"
@@ -9,7 +12,7 @@
 <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e5487992-7d94-44a5-958b-e2aca4855ea3" align="center" width="50" height="50"/> 
 
 # Danilo O. Pinheiro 
-
+-->
 
 *Software Architect, Engineer & Cons. Sr. Developer .NET*
 -----------------------------------------------------------

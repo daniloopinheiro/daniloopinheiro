@@ -1,4 +1,6 @@
-<a href="https://app.daily.dev/daniloopinheiro"><img src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png?r=exj&type=wide" width="652" alt="Danilo O. Pinheiro's Dev Card"/></a>
+<a href="https://app.daily.dev/daniloopinheiro">
+<img src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png?type=wide&r=108" width="652" alt="Danilo O. Pinheiro's Dev Card"/>
+</a>
 
 <!--
 <a href="https://app.daily.dev/daniloopinheiro" target="_blank">

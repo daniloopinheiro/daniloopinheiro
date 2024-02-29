@@ -15,18 +15,15 @@
 
 -->
 
-<a href="https://app.daily.dev/daniloopinheiro" target="_blank">
-    <img
-        width="250"
-        align="left"
+<a href="https://app.daily.dev/daniloopinheiro" target="_self" >
+    <img width="250" align="left"
         src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png"
     />
 </a>
 
-# Danilo O. Pinheiro 
-
 *Cons. Sr. Developer .NET & Software Architect, Engineer*
----------------------------------------------------------
+-
+
 * 🌍 - Moro em São Paulo - Brasil
 * 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 * ✉️ - Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com)

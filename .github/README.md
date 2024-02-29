@@ -21,8 +21,9 @@
     />
 </a>
 
+<br><br>
+
 *Cons. Sr. Developer .NET & Software Architect, Engineer*
--
 
 * 🌍 - Moro em São Paulo - Brasil
 * 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
@@ -31,7 +32,8 @@
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/> - *CEO* da comunidade - [DevsFree](https://devsfree.com.br/)
 * <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - Recentemente contratado como *Developer Instructor* na - [Rocketseat](https://www.rocketseat.com.br/)
 
-
+<br><br>
+    
 ## Conquistas
 
 <details>

@@ -18,11 +18,12 @@
 
 <a href="https://app.daily.dev/daniloopinheiro" target="_blank">
     <img
-      width="250"
-      align="right"
+        width="250"
         src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png"
     />
 </a>
+
+#
 
 *Cons. Sr. Developer .NET & Software Architect, Engineer*
 -----------------------------------------------------------

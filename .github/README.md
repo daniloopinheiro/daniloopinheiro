@@ -21,9 +21,9 @@
     />
 </a>
 
-<br><br>
+<br>
 
-*Cons. Sr. Developer .NET & Software Architect, Engineer*
+### 👨‍💻 *Cons. Sr. Developer .NET & Software Architect, Engineer*
 
 * 🌍 - Moro em São Paulo - Brasil
 * 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)

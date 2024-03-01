@@ -34,7 +34,7 @@
 
 <br><br><br>
     
-## Conquistas
+## 🏆 Conquistas
 
 <details>
     <summary>Formações</summary>
@@ -169,7 +169,7 @@
 </a>
 -->
 
-## Habilidades Pessoais/Interpessoais
+## 👨🏻‍🏫 Habilidades Pessoais/Interpessoais
 
 <details>
     <summary>Detalhes</summary>
@@ -187,7 +187,7 @@
 
 </details>
 
-## Habilidades Técnicas
+## 🥷🏼 Habilidades Técnicas
 
 <details>
     <summary>Languages</summary>
@@ -275,7 +275,7 @@
 --> 
 </details>
 
-## Comunicações
+## 📇 Comunicações
 
 <details>
     <summary>Redes Sociais</summary>

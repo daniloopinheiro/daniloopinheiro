@@ -34,7 +34,7 @@
 
 <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - *Developer Instructor* na - [Rocketseat](https://www.rocketseat.com.br/)
 
-<br><br><br><br>
+<br><br><br><br><br>
     
 ## 🏆 Conquistas
 

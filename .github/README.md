@@ -1,4 +1,4 @@
-<!--
+`<!--
 <a href="https://app.daily.dev/daniloopinheiro">
 <img src="https://api.daily.dev/devcards/v2/t7J5TbhNrhUktn3KX9GTF.png?type=wide&r=108" width="652" alt="Danilo O. Pinheiro's Dev Card"/>
 </a>
@@ -28,11 +28,11 @@
 
 ✉️ - Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com) ou [daniloopinheiro@devsfree.com.br](mailto:daniloopinheiro@devsfree.com.br)
 
-🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="20"/>  como **consultor .NET**
+🚀 - Atualmente estou trabalhando na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="20"/>  como **Consultor .NET**
 
-<img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/> - *CEO* da comunidade - [DevsFree](https://devsfree.com.br/)
+<img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/> - **CEO** da comunidade - [DevsFree](https://devsfree.com.br/)
 
-<img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - *Developer Instructor* na - [Rocketseat](https://www.rocketseat.com.br/)
+<img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - **Instructor .Net** na - [Rocketseat](https://www.rocketseat.com.br/)
 
 <br><br><br><br><br><br>
     

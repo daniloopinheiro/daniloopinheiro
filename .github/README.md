@@ -12,6 +12,8 @@
 </a>
 <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e5487992-7d94-44a5-958b-e2aca4855ea3" align="center" width="50" height="50"/> 
 -->
+*E conhecereis a verdade, e a verdade vos libertará.
+João 8:32*
 
 <a href="https://app.daily.dev/daniloopinheiro" target="_self" >
     <img width="300" align="left"

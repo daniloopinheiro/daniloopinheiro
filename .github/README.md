@@ -30,7 +30,7 @@ João 8:32*
 
 ✉️ - Você pode entrar em contato comigo em [daniloopro@gmail.com](mailto:daniloopro@gmail.com) ou [daniloopinheiro@devsfree.com.br](mailto:daniloopinheiro@devsfree.com.br)
 
-**Consultor .NET** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="20"/>
+**Consultor .NET** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="30"/>
 
 **CEO** da comunidade na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/>
 

@@ -36,7 +36,7 @@ João 8:32*
 
 <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="25" height="25"/> - **Instructor .Net** na - [Rocketseat](https://www.rocketseat.com.br/)
 
-🚀 - **Consultor .NET** na <img src="https://github.com/user-attachments/assets/d9f8a291-8ac7-43d3-be43-0abd2806d849" width="50" height="30"/>
+🚀 - **Consultor .NET** na <img src="https://github.com/user-attachments/assets/d9f8a291-8ac7-43d3-be43-0abd2806d849" width="40" height="30"/>
 
 
 

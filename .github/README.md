@@ -28,7 +28,7 @@ João 8:32*
 
 🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
 
-✉️ - Você pode entrar em contato comigo em [contato@dopme.io](mailto:contato@dopme.io) ou [daniloopinheiro@devsfree.com.br](mailto:daniloopinheiro@devsfree.com.br)
+✉️ - Você pode entrar em contato comigo em [dopme.io](mailto:contato@dopme.io), [DevsFree](mailto:daniloopinheiro@devsfree.com.br) ou [Ticketizze](mailto:danilo.opinheiro@ticketizze.com.br)
 
 **Consultor .NET** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="30"/>
 

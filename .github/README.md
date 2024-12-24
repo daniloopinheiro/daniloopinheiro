@@ -26,7 +26,7 @@ João 8:32*
 
 🌍 - Moro em São Paulo - Brasil
 
-🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/danilo-o-pinheiro/)
+🖥️ - Veja meu portfólio no [Linkedin](http://www.linkedin.com/in/daniloopinheiro/)
 
 ✉️ - Você pode entrar em contato comigo em [dopme.io](mailto:contato@dopme.io), [DevsFree](mailto:daniloopinheiro@devsfree.com.br) ou [Ticketizze](mailto:danilo.opinheiro@ticketizze.com.br)
 

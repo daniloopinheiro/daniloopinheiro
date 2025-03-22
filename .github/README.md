@@ -11,6 +11,7 @@
     />
 </a>
 <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/e5487992-7d94-44a5-958b-e2aca4855ea3" align="center" width="50" height="50"/> 
+**Instructor .Net** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="30" height="25"/>
 -->
 *E conhecereis a verdade, e a verdade vos libertará.
 João 8:32*
@@ -33,8 +34,6 @@ João 8:32*
 **Consultor .NET** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/8878bab2-f97b-4174-9fd6-56d4183908f0" width="50" height="30"/>
 
 **CEO** da comunidade na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" align="center" width="20" height="25"/>
-
-**Instructor .Net** na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/29e4c8a7-36e8-4dc2-9e79-e4a74ca29d55" align="center" width="30" height="25"/>
 
 **Consultor .NET** na <img src="https://github.com/user-attachments/assets/d9f8a291-8ac7-43d3-be43-0abd2806d849" width="40" height="30"/>
 

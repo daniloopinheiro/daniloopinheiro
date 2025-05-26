@@ -4,85 +4,99 @@
   </a>
 </p>
 
-> *"E conhecereis a verdade, e a verdade vos libertará." - João 8:32*
-
----
-
-### 👨‍💼 Sobre mim
-
-- 📍 São Paulo - Brasil  
-- 🧠 Consultor Sênior .NET | Arquiteto de Software | CTO  
-- 💼 CEO na <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ee90e74c-4f30-4167-a15d-f4422745dc87" width="20"/>  
-- 🔗 [LinkedIn](https://linkedin.com/in/daniloopinheiro/) • [DevCard](https://app.daily.dev/daniloopinheiro)  
-
-### 📫 Contato
-
-- 💌 [contato@dopme.io](mailto:contato@dopme.io)  
-- 💌 [daniloopinheiro@devsfree.com.br](mailto:daniloopinheiro@devsfree.com.br)  
-- 💌 [danilo.opinheiro@ticketizze.com.br](mailto:danilo.opinheiro@ticketizze.com.br)
-
----
-
-## 🧠 Conhecimentos Técnicos
-
-### 🚀 Linguagens & Frameworks
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" alt="C#"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" alt=".NET"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="Node.js"/>
-  ...
+<p align="center">
+  <b>.NET Software Architect | Sr. Consultant | Tech Instructor</b><br>
+  <i>Transformando desafios em soluções escaláveis e sustentáveis com tecnologia.</i>
 </p>
 
-> *Use um carrossel com `<details>` se quiser separar por categoria como está no seu original*
+<p align="center">
+  <a href="mailto:contato@dopme.io">📧 contato@dopme.io</a> • 
+  <a href="https://www.linkedin.com/in/daniloopinheiro/">🔗 LinkedIn</a> • 
+  <a href="https://app.daily.dev/daniloopinheiro">📰 Daily.dev</a>
+</p>
 
 ---
 
-## 🧩 Certificações
+## 🧠 Sobre Mim
 
-<details>
-  <summary>Clique para expandir</summary>
-  <p align="left">
-    <img src="https://images.credly.com/size/110x110/images/9d725560-03a5-4577-884d-26c8776b0b4b/LRA-DomainDrivenDesign-badge.png" width="50"/>
-    <img src="https://images.credly.com/size/110x110/images/6bd34861-da0d-49b8-b1ac-4d111d5de456/LRA-CQRS-ES-badge.png" width="50"/>
-    <img src="https://images.credly.com/size/110x110/images/58e2cad5-5551-44a6-8285-06d6a4aa9cb3/IBM_Cloud_Essentials.png" width="50"/>
-    ...
-  </p>
-</details>
+- 🌍 Local: São Paulo, Brasil
+- 🎓 Formação em Engenharia de Software e MBA em Arquitetura de Soluções
+- 🏢 Atuação atual:
+  - CTO da [Ticketizze](https://ticketizze.com.br)
+  - CEO da [DevsFree](https://devsfree.com.br)
 
 ---
 
-## 📚 Formação
+## 🚀 Tecnologias & Ferramentas
 
-<details>
-  <summary>Clique para expandir</summary>
-  <p align="left">
-    <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/b5f6e4f4-ae4a-4080-b78b-279ef73e19e9" width="50"/>
-    <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/4cf37a28-5d0b-4ea2-9920-b44798d79294" width="50"/>
-    <img src="https://github.com/daniloopinheiro/daniloopinheiro/assets/64677271/ad0e0ff5-a2f5-4c1d-9303-acff94321231" width="50"/>
-  </p>
-</details>
-
----
-
-## 🧠 Soft Skills
-
-- 🤝 Trabalho em equipe  
-- 📅 Organização e gestão de tempo  
-- 💬 Comunicação clara  
-- 💪 Resiliência e trabalho sob pressão  
-- 🔄 Flexibilidade e adaptabilidade  
-- 💡 Ética e proatividade
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-AzureDevOps-blue?style=flat&logo=azuredevops&logoColor=white)
 
 ---
 
-## 💡 Dicas Extras para modernizar ainda mais:
+## 🧑‍🏫 Experiência em Educação Técnica
 
-- Usar [shields.io](https://shields.io/) para badges customizadas.
-- Criar seções como “Projetos em Destaque” com links para repositórios.
-- Adicionar um GIF animado curto com seu stack (ex: `https://github.com/Platane/snk` para gráficos de commits).
-- Colocar links clicáveis nas logos das empresas (com `<a>`).
+- Instrutor oficial na DIO com mais de **35 mil alunos**
+- Cursos focados em: 
+  - **.NET, Clean Architecture, DDD, CQRS, MediatR**
+  - **Cloud Computing com Azure e AWS**
+- Apoio social à educação em comunidades periféricas
+- Entusiasta da formação de **Tech Leads** e **mentorias técnicas**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniloopinheiro&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloopinheiro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 💼 Como Posso Ajudar
+
+- Arquitetura de Microserviços em .NET
+- Planejamento e migração para a nuvem (Azure / AWS)
+- Implementação de Clean Architecture
+- Mentoria técnica de Devs e Tech Leads
+- Cursos, Palestras e Workshops
+
+---
+
+## 📰 Artigos e Conteúdos
+
+- [Domain-Driven Design com .NET](https://dev.to/daniloopinheiro/domain-driven-design-na-pratica-com-net-5ho)
+- [Clean Architecture + CQRS + MediatR](https://dev.to/daniloopinheiro/clean-architecture-na-pratica-com-cqrs-e-mediatr-em-net-34lc)
+- [Como preparar seu time para escalar](https://dev.to/daniloopinheiro/lideranca-tecnica-e-escalabilidade-de-times-3h7g)
+
+---
+
+## 🏆 Certificações & Conquistas
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?logo=microsoft" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws" /></td>
+    <td><img src="https://img.shields.io/badge/Clean%20Architecture-Expert%20Level-green?logo=dotnet" /></td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Conecte-se Comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniloopinheiro)
+- 💻 [Blog / Artigos](https://dev.to/daniloopinheiro)
+- 📬 contato@dopme.io
+
+---
+
+<p align="center">
+  Feito com ❤️ por Danilo O. Pinheiro
+</p>

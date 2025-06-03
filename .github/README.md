@@ -43,8 +43,8 @@
 
 - Instrutor oficial na DIO com mais de **35 mil alunos**
 - Cursos focados em: 
-  - **.NET, Clean Architecture, DDD, CQRS, MediatR**
-  - **Cloud Computing com Azure e AWS**
+  - **.NET, Clean Code, Clean Architecture, DDD, CQRS**
+  - **Cloud Computing com Azure, AWS & GCP**
 - Apoio social à educação em comunidades periféricas
 - Entusiasta da formação de **Tech Leads** e **mentorias técnicas**
 

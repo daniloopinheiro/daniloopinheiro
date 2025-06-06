@@ -71,9 +71,9 @@
 
 ## 📰 Artigos e Conteúdos
 
-- [Domain-Driven Design com .NET](https://dev.to/daniloopinheiro/domain-driven-design-na-pratica-com-net-5ho)
-- [Clean Architecture + CQRS + MediatR](https://dev.to/daniloopinheiro/clean-architecture-na-pratica-com-cqrs-e-mediatr-em-net-34lc)
-- [Como preparar seu time para escalar](https://dev.to/daniloopinheiro/lideranca-tecnica-e-escalabilidade-de-times-3h7g)
+- [Domain-Driven Design com .NET](https://dev.to/daniloopinheiro/domain-driven-design-com-net-4o4e)
+- [Clean Architecture + CQRS + MediatR](https://dev.to/daniloopinheiro/clean-architecture-na-pratica-com-cqrs-e-mediatr-em-net-e6d)
+- [Como preparar seu time para escalar](https://dev.to/daniloopinheiro/lideranca-tecnica-e-escalabilidade-de-times-construindo-equipes-de-alto-desempenho-1a7b)
 
 ---
 

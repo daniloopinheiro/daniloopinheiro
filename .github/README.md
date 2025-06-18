@@ -9,11 +9,6 @@
   <i>Transformando desafios em soluções escaláveis e sustentáveis com tecnologia.</i>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniloopinheiro/">🔗 LinkedIn</a> • 
-  <a href="https://app.daily.dev/daniloopinheiro">📰 Daily.dev</a>
-</p>
-
 ---
 
 ## 🧠 Sobre Mim
@@ -61,9 +56,10 @@
 
 ## 📰 Artigos e Conteúdos
 
-- [Domain-Driven Design com .NET](https://dev.to/daniloopinheiro/domain-driven-design-com-net-4o4e)
-- [Clean Architecture + CQRS + MediatR](https://dev.to/daniloopinheiro/clean-architecture-na-pratica-com-cqrs-e-mediatr-em-net-e6d)
-- [Como preparar seu time para escalar](https://dev.to/daniloopinheiro/lideranca-tecnica-e-escalabilidade-de-times-construindo-equipes-de-alto-desempenho-1a7b)
+Confira meus artigos e publicações técnicas em:
+
+- 📚 [dev.to/daniloopinheiro](https://dev.to/daniloopinheiro)
+- ✍️ [medium.com/@daniloopinheiro](https://daniloopinheiro.medium.com)
 
 ---
 

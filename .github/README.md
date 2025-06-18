@@ -45,7 +45,7 @@
 
 ## 🧑‍🏫 Experiência em Educação Técnica
 
-- Instrutor oficial na **DIO** com mais de **35 mil alunos**
+- Instrutor oficial na **Rocketseat** e na **DIO**, com mais de **35 mil alunos** impactados
 - Cursos focados em:
   - **.NET, Clean Code, Clean Architecture, DDD, CQRS**
   - **Cloud Computing com Azure, AWS & GCP**

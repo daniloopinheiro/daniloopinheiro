@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contato@dopme.io">📧 contato@dopme.io</a> • 
   <a href="https://www.linkedin.com/in/daniloopinheiro/">🔗 LinkedIn</a> • 
   <a href="https://app.daily.dev/daniloopinheiro">📰 Daily.dev</a>
 </p>
@@ -19,8 +18,8 @@
 
 ## 🧠 Sobre Mim
 
-- 🌍 Local: São Paulo, Brasil
-- 🎓 Formação em Engenharia de Software e MBA em Arquitetura de Soluções
+- 🌍 Local: São Paulo, Brasil  
+- 🎓 Formação em Engenharia de Software e MBA em Arquitetura de Soluções  
 - 🏢 Atuação atual:
   - CTO da [Ticketizze](https://ticketizze.com.br)
   - CEO da [DevsFree](https://devsfree.com.br)
@@ -39,33 +38,24 @@
 
 ---
 
-## 🧑‍🏫 Experiência em Educação Técnica
-
-- Instrutor oficial na DIO com mais de **35 mil alunos**
-- Cursos focados em: 
-  - **.NET, Clean Code, Clean Architecture, DDD, CQRS**
-  - **Cloud Computing com Azure, AWS & GCP**
-- Apoio social à educação em comunidades periféricas
-- Entusiasta da formação de **Tech Leads** e **mentorias técnicas**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniloopinheiro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloopinheiro&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 💼 Como Posso Ajudar
 
-- Arquitetura de Microserviços em .NET
-- Planejamento e migração para a nuvem (Azure / AWS)
-- Implementação de Clean Architecture
-- Mentoria técnica de Devs e Tech Leads
+- Arquitetura de Microserviços em .NET  
+- Planejamento e migração para a nuvem (Azure / AWS)  
+- Implementação de Clean Architecture  
+- Mentoria técnica de Devs e Tech Leads  
 - Cursos, Palestras e Workshops
+
+---
+
+## 🧑‍🏫 Experiência em Educação Técnica
+
+- Instrutor oficial na **DIO** com mais de **35 mil alunos**
+- Cursos focados em:
+  - **.NET, Clean Code, Clean Architecture, DDD, CQRS**
+  - **Cloud Computing com Azure, AWS & GCP**
+- Apoio à educação em comunidades periféricas
+- Entusiasta da formação de **Tech Leads** e **mentorias técnicas**
 
 ---
 
@@ -79,24 +69,24 @@
 
 ## 🏆 Certificações & Conquistas
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Developer%20Associate-blue?logo=microsoft" /></td>
-    <td><img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws" /></td>
-    <td><img src="https://img.shields.io/badge/Clean%20Architecture-Expert%20Level-green?logo=dotnet" /></td>
-  </tr>
-</table>
+- Profissional certificado em soluções cloud e arquitetura moderna.
+- Conquistas reconhecidas por grandes players do mercado.
+
+🔗 [Acesse meu perfil completo na Credly](https://www.credly.com/users/daniloopinheiro)
 
 ---
 
-## 🤝 Conecte-se Comigo
+## 📬 Entre em Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniloopinheiro)
-- 💻 [Blog / Artigos](https://dev.to/daniloopinheiro)
-- 📬 contato@dopme.io
+Entre em contato para **colaborações, dúvidas ou consultorias**:
+
+- ✉️ **Email Pessoal**: [daniloopro@gmail.com](mailto:daniloopro@gmail.com)  
+- 🏢 **Email Empresarial (DevsFree)**: [devsfree@devsfree.com.br](mailto:devsfree@devsfree.com.br)  
+- 📊 **Consultoria (dopme.io)**: [contato@dopme.io](mailto:contato@dopme.io)  
+- 💼 **LinkedIn**: [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro)
 
 ---
 
 <p align="center">
-  Feito com ❤️ por Danilo O. Pinheiro
+  Feito com ❤️ por <strong>Danilo O. Pinheiro</strong>
 </p>

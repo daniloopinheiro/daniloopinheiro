@@ -58,8 +58,9 @@
 
 Confira meus artigos e publicações técnicas em:
 
-- 📚 [dev.to/daniloopinheiro](https://dev.to/daniloopinheiro)
-- ✍️ [medium.com/@daniloopinheiro](https://daniloopinheiro.medium.com)
+* 💻 **Dev.to**: [@daniloopinheiro](https://dev.to/daniloopinheiro)
+* ✍️ **Medium**: [@daniloopinheiro](https://medium.com/@daniloopinheiro)
+* 🌐 **Shifters.dev**: [daniloopinheiro](https://shifters.dev/daniloopinheiro)
 
 ---
 

@@ -21,32 +21,28 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-### Linguagens
-
+- 🛠️ Linguagens:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### ☁️ Cloud & Infraestrutura
-
+- ☁️ Cloud & Infraestrutura:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-0052CC?style=flat&logo=keycloak&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 
-### 📡 Comunicação & Mensageria
-
+- 📡 Comunicação & Mensageria:
 ![REST](https://img.shields.io/badge/REST-009688?style=flat&logo=rest&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-20c997?style=flat&logo=grpc&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-### 🧱 Arquitetura
-
+- 🧱 Arquitetura:
 ![DDD](https://img.shields.io/badge/DDD-Domain--Driven--Design-blueviolet?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean--Architecture-6DB33F?style=flat)
 ![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal--Architecture-FFC107?style=flat)
@@ -54,15 +50,13 @@
 ![Monolith](https://img.shields.io/badge/Monolith-9E9E9E?style=flat)
 ![EDA](https://img.shields.io/badge/Event--Driven--Architecture-F44336?style=flat)
 
-### 📦 Observabilidade & DevOps
-
+- 📦 Observabilidade & DevOps:
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B700?style=flat&logo=githubactions&logoColor=white)
 
-### 🌐 API Gateway
-
+- 🌐 API Gateway:
 ![API Gateway](https://img.shields.io/badge/API--Gateway-607D8B?style=flat)
 ![Kong](https://img.shields.io/badge/Kong-002659?style=flat&logo=kong&logoColor=white)
 

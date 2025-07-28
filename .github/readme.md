@@ -57,8 +57,12 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A1B700?style=flat&logo=githubactions&logoColor=white)
 
 - 🌐 API Gateway:
-![API Gateway](https://img.shields.io/badge/API--Gateway-607D8B?style=flat)
 ![Kong](https://img.shields.io/badge/Kong-002659?style=flat&logo=kong&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikmesh&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS%20API%20Gateway-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure API Management](https://img.shields.io/badge/Azure%20API%20Management-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Apigee](https://img.shields.io/badge/Apigee-FF6D00?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 

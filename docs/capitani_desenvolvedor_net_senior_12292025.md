@@ -35,4 +35,3 @@ Atuação 100% remota.
 **DevOps e Operações:**
 - Implementar e gerenciar pipelines de CI/CD, automatizando processos de build e deploy
 - Monitorar aplicações em produção, analisando logs e métricas para prevenção proativa de falhas
-https://www.linkedin.com/premium/premium-perks/
